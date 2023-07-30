@@ -518,7 +518,13 @@ img {
   width: 90%;
 }
 
-.skills__CSS {
+.skills__css {
+  width: 80%;
+}
+.skills__tailwind {
+  width: 20%;
+}
+.skills__bootstrap {
   width: 80%;
 }
 
