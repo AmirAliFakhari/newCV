@@ -537,7 +537,10 @@ img {
 }
 
 .skills__react {
-  width: 60%;
+  width: 70%;
+}
+.skills__redux {
+  width: 50%;
 }
 
 .skills__firebase {
