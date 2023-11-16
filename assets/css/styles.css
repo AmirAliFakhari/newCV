@@ -525,7 +525,7 @@ img {
 }
 
 .skills__tailwind {
-  width: 20%;
+  width: 60%;
 }
 
 .skills__bootstrap {
@@ -540,7 +540,7 @@ img {
   width: 70%;
 }
 .skills__redux {
-  width: 50%;
+  width: 60%;
 }
 
 .skills__firebase {
