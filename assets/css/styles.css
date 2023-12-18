@@ -542,9 +542,18 @@ img {
 .skills__redux {
   width: 60%;
 }
+.skills__quary {
+  width: 60%;
+}
+.skills__router {
+  width: 60%;
+}
 
 .skills__firebase {
   width: 20%;
+}
+.skills__supabase {
+  width: 60%;
 }
 
 .skills__figma {
