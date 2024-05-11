@@ -386,7 +386,7 @@ img {
 }
 
 .button--white:hover {
-  color: var(--first-color-alt);
+  background-color: var(--first-color-lighter);
 }
 
 .button--flex {
