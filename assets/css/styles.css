@@ -538,6 +538,9 @@ img {
 .skills__tsc {
   width: 50%;
 }
+.skills__next {
+  width: 10%;
+}
 
 .skills__react {
   width: 70%;
